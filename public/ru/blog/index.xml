@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Гилязетдинов Руслан</title>
-    <link>https://Ma3oBblu.github.io/ru/blog/</link>
+    <link>https://rusdigi.name/ru/blog/</link>
     <description>Recent content in Blog on Гилязетдинов Руслан</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://Ma3oBblu.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rusdigi.name/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
