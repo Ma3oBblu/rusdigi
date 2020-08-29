@@ -1,0 +1,89 @@
+baseURL = "https://rusdigi.name/"
+languageCode = "en-us"
+title = "Ruslan Giliazetdinov"
+theme = "hello-friend-ng"
+paginate = 10
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = true
+disableRSS     = true
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = true
+
+[params]
+dateform = "Jan 2, 2006"
+dateformShort = "Jan 2"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04 -0700"
+
+# Subtitle for home
+homeSubtitle = "backend developer"
+homeSkills = "PHP • NodeJS • Golang"
+
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
+
+# Enable sharing buttons, if you linke
+enableSharingButtons = true
+
+# Metadata mostly used in document's head
+description = "Contact Ruslan Giliazetdinov, backend developer"
+keywords = "homepage, blog, contacts"
+images = [""]
+
+# Default theme "light" or "dark"
+defaultTheme = "dark"
+
+[[params.social]]
+name = "email"
+url = "mailto:Ma3oBblu@gmail.com"
+[[params.social]]
+name = "github"
+url = "https://github.com/Ma3oBblu"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ruslangilyazetdinov/"
+
+[[params.social]]
+name = "telegram"
+url = "https://t.me/ma3obblu"
+
+[[params.social]]
+name = "facebook"
+url = "https://www.facebook.com/Ma3oBblu"
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/ma3obblu_true/"
+
+[taxonomies]
+category = "blog"
+tag = "tags"
+series = "series"
+
+[languages]
+[languages.en]
+title = "Ruslan Giliazetdinov"
+subtitle = "backend developer"
+keywords = ""
+copyright = ''
+readOtherPosts = "Read other posts"
+
+[languages.en.params.logo]
+logoText = "rusdigi.name"
+logoHomeLink = "/"
+
+[languages.ru]
+title = "Гилязетдинов Руслан"
+subtitle = "backend разработчик"
+keywords = ""
+copyright = ''
+readOtherPosts = "Читать еще"
+
+[languages.ru.params.logo]
+logoText = "rusdigi.name"
+logoHomeLink = "/"
