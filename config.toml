@@ -21,7 +21,7 @@ dateformNumTime = "2006-01-02 15:04 -0700"
 
 # Subtitle for home
 homeSubtitle = "backend developer"
-homeSkills = "PHP • NodeJS • Golang"
+homeSkills = "PHP (Yii2, Symfony) • NodeJS (ExpressJS) • Golang"
 
 # Set disableReadOtherPosts to true in order to hide the links to other posts.
 disableReadOtherPosts = false
